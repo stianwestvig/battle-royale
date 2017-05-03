@@ -12,4 +12,11 @@ router.post('/echo', (req, res) => {
   res.json(Object.assign({}, req.body, { server: true }));
 });
 
+router.all('*', (req, res) => {
+  const url = req.url;
+  const time = Date.now();
+  console.log('REQUEST:', url, 'TIME:', time);
+  res.json({ request: url, time});
+});
+
 module.exports = router;
