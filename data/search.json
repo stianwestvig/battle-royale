@@ -1,0 +1,689 @@
+{
+  "data": {
+    "search": {
+      "recipes": {
+        "total": 335,
+        "hits": [
+          {
+            "ingredientList": [
+              {
+                "ingredient": {
+                  "singularName": "cherrytomat"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "Old El Paso Burrito Spice Mix"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "Old El Paso Nachips ®"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "TINE Lettrømme 18 %"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "TINE Revet Ost Original"
+                }
+              }
+            ]
+          },
+          {
+            "ingredientList": [
+              {
+                "ingredient": {
+                  "singularName": "basilikum"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "kalkunskinke"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "landbrød"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "majones"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "parmesan"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "pepper"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "salt"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "sitronsaft"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "TINE Lettrømme 18 %"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "TINE Meierismør"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "tomat"
+                }
+              }
+            ]
+          },
+          {
+            "ingredientList": [
+              {
+                "ingredient": {
+                  "singularName": "appelsin"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "fennikel"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "gulrot"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "hermetiske tomater"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "hønsebuljongterning"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "karri"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "pepper"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "purre"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "ris"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "salt"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "TINE Lett Crème Fraîche 18 %"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "TINE Meierismør"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "tomatpuré"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "torskefilet"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "vann"
+                }
+              }
+            ]
+          },
+          {
+            "ingredientList": [
+              {
+                "ingredient": {
+                  "singularName": "baconskive"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "brød"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "egg"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "majones"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "TINE Meierismør"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "TINE Revet Ost 4 oster"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "tomat"
+                }
+              }
+            ]
+          },
+          {
+            "ingredientList": [
+              {
+                "ingredient": {
+                  "singularName": "chilipulver"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "frossen spinat"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "fullkornsris"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "Jarlsberg® Revet"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "laksefilet"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "løk"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "pepper"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "salt"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "salt"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "salvie"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "strøkavring"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "TINE Matfløte"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "TINE Meierismør"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "tomat"
+                }
+              }
+            ]
+          },
+          {
+            "ingredientList": [
+              {
+                "ingredient": {
+                  "singularName": "basilikumblader"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "grønnsakbuljongterning"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "hermetiske tomater"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "hvitløksfedd"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "ingefær"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "kajennepepper"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "pasta"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "TINE Lett Crème Fraîche 18 %"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "TINE Meierismør"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "vann"
+                }
+              }
+            ]
+          },
+          {
+            "ingredientList": [
+              {
+                "ingredient": {
+                  "singularName": "basilikumblader"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "fetaost"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "Nå® Familiepizzabunn Original"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "pizzasaus"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "tomat"
+                }
+              }
+            ]
+          },
+          {
+            "ingredientList": [
+              {
+                "ingredient": {
+                  "singularName": "basilikumblader"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "hvit pepper"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "Kesam® Mager Naturell 300 g"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "løk"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "Nå® Familiepizzabunn Original"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "oliven"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "salt"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "timian"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "TINE Revet Ost Original"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "tomat"
+                }
+              }
+            ]
+          },
+          {
+            "ingredientList": [
+              {
+                "ingredient": {
+                  "singularName": "cherrytomat"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "hvitløksfedd"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "kjøttbuljong"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "kjøttdeig"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "løk"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "parmesan"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "pepper"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "risottoris"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "ruccola"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "salt"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "TINE Meierismør"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "TINE Meierismør"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "tomatpuré"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "vann"
+                }
+              }
+            ]
+          },
+          {
+            "ingredientList": [
+              {
+                "ingredient": {
+                  "singularName": "aspargestopp"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "cherrytomat"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "oregano"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "pepper"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "potet"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "purre"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "salt"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "seifilet"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "TINE Lett Crème Fraîche 18 %"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "Tinemelk® Lettmelk 1,2 % fett"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "tomatpuré"
+                }
+              }
+            ]
+          },
+          {
+            "ingredientList": [
+              {
+                "ingredient": {
+                  "singularName": "baconskive"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "egg"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "løk"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "pepper"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "potet"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "salt"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "TINE Revet Ost Original"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "Tinemelk® Lettmelk 1,2 % fett"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "tomat"
+                }
+              }
+            ]
+          },
+          {
+            "ingredientList": [
+              {
+                "ingredient": {
+                  "singularName": "biff"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "cherrytomat"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "Chevre Naturell Haukeli"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "gresskarkjerner"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "olivenolje"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "olivenolje"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "peanøtter"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "pepper"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "salatblanding"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "salt"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "salt"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "sitron"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "sukker"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "timian"
+                }
+              },
+              {
+                "ingredient": {
+                  "singularName": "TINE Meierismør"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
